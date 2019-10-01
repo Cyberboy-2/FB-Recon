@@ -76,7 +76,7 @@ def show_program():
   
    Author     ABHINANDAN CHOWDHURY "CYBERBOY 2.0"
     Name       FB-Recon
-    CodeName   FB-Recon
+    CodeName   Cyberboy-2
     version    full version
     Date       01/10/2019
     Team       Cyber-Jimix    
