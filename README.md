@@ -16,7 +16,7 @@ FB-Recon is an accurate facebook account information gathering, all sensitive in
 
 # [ Installation ]
 ```
-$ pkg update upgrade
+$ pkg update && pkg upgrade
 $ pkg install git python2
 $ git clone https://github.com/Cyberboy-2/FB-Recon.git
 $ cd FB-Recon
